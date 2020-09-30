@@ -1,0 +1,17 @@
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\TestWebApp.dll.config
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\TestWebApp.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\TestWebApp.pdb
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\G2G_LIB.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\Newtonsoft.Json.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\RestSharp.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\Exact.Web.UI.Controls.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\G2G_LIB.pdb
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\G2G_LIB.dll.config
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\Newtonsoft.Json.xml
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\RestSharp.xml
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\obj\Debug\TestWebApp.csproj.CopyComplete
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\obj\Debug\TestWebApp.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\obj\Debug\TestWebApp.pdb
+C:\Users\justinroyer\source\repos\G2G_LIB\TestWebApp\obj\Debug\TestWebApp.csprojAssemblyReference.cache

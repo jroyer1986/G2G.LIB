@@ -1,0 +1,13 @@
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\G2G_LIB.dll.config
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\G2G_LIB.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\G2G_LIB.pdb
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\RestSharp.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\RestSharp.xml
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\obj\Debug\G2G_LIB.csproj.CopyComplete
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\obj\Debug\G2G_LIB.dll
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\obj\Debug\G2G_LIB.pdb
+C:\Users\justinroyer\source\repos\G2G_LIB\G2G_LIB\obj\Debug\G2G_LIB.csprojAssemblyReference.cache
